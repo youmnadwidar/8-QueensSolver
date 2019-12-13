@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e4042c2-7d77-46cc-bde6-9f9527d34fde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AI_Assignment2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sample_Input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/CSPAlgorithm/BackTrackingSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/CSPAlgorithm/ForwardCheckingSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/CSPAlgorithm/SolutionPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/GeneticAlgorithm/Chromosome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/GeneticAlgorithm/GeneticAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/HillClimbingAlgorithm/HillClimbingAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/HillClimbingAlgorithm/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/KBeam/LocalBeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/KBeam/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/KBeam/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/META-INF/AI_Assignment2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/MainRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AI_Assignment2/ReadInputFile/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSPAlgorithm/BackTrackingSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSPAlgorithm/ForwardCheckingSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSPAlgorithm/SolutionPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSPAlgorithm/mainCSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeneticAlgorithm/Chromosome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeneticAlgorithm/GeneticAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeneticAlgorithm/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HillClimbingAlgorithm/HillClimbingAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HillClimbingAlgorithm/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KBeam/LocalBeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KBeam/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KBeam/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadInputFile/Reader.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UwifhcoT7yzTdCR4IpDKMG9o09" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AI_Assignment2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e4042c2-7d77-46cc-bde6-9f9527d34fde" name="Default Changelist" comment="" />
+      <created>1576274162101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576274162101</updated>
+      <workItem from="1576274163985" duration="33000" />
+      <workItem from="1576274244519" duration="65000" />
+      <workItem from="1576274327924" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576274258374">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="548" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/49.27.1317.741@49.27.1317.741" timestamp="1576274258374" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576274379044">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1576274379044" />
+  </component>
+</project>
